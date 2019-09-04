@@ -1,0 +1,23 @@
+select {
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #333;
+    margin-top: 10px;
+}
+button {
+    min-height: 41px;
+    min-width: 80px;
+    padding: 10px 20px;
+    background: #00AEFF;
+    color: #fff;
+    border: 1px solid;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.title_text {
+    font-size: 14px;
+    padding-bottom: 30px;
+}

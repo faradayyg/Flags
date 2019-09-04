@@ -1,0 +1,7 @@
+{
+  "name": "Country Flags",
+  "id": "750066070919865397",
+  "api": "1.0.0",
+  "main": "./dist/code.js",
+  "ui": "./dist/ui.html"
+}
